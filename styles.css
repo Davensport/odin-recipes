@@ -20,3 +20,12 @@ h1.main {
     color: red;
     font-size: 30px;
 }
+
+h3 {
+    color: blue;
+}
+
+.description {
+    font-weight: bold;
+
+}
