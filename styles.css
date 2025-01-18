@@ -1,32 +1,45 @@
 h1.main {
-    background-color: rgb(248, 171, 171);
-    text-align: center;
-    font-size: 50px;
+  background-color: rgb(248, 171, 171);
+  text-align: center;
+  font-size: 50px;
 }
 
 .main.subheader {
-    color: rgb(0, 19, 187);
-    text-align: center;
-    font-size: 25px;
-    font-weight: bold;
-    font-style: italic;
+  color: rgb(0, 19, 187);
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  font-style: italic;
 }
 
 .list {
-    color: rgb(0, 180, 24);
+  color: rgb(0, 180, 24);
 }
 
 .bullet {
-    color: red;
-    font-size: 30px;
+  color: red;
+  font-size: 30px;
 }
 
 h3,
 h4 {
-    color: blue;
+  color: blue;
 }
 
 .description {
-    font-weight: bold;
+  font-weight: bold;
+}
 
+.cookbook {
+  margin: 0 auto;
+  display: block;
+}
+
+.recipe-list {
+  text-align: center;
+}
+
+ul {
+  display: inline-block;
+  text-align: left;
 }
